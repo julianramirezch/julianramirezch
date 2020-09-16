@@ -1,5 +1,5 @@
 ### Hi 👋
-<img src ="https://github.com/julianramirezch/julianramirezch/raw/master/software_developer.gif" margin-left="auto" margin-right="auto">
+<img src ="https://github.com/julianramirezch/julianramirezch/raw/master/software_developer.gif" margin-left=auto margin-right=auto>
 
 [![Julian github stats](https://github-readme-stats.vercel.app/api?username=julianramirezch&show_icons=true&theme=vision-friendly-dark)](https://github.com/julianramirezch/github-readme-stats)
 
