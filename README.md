@@ -9,7 +9,7 @@
 </div>
 <p align="center">
     <!-- gmail-->
-    <a href="mailto:dm@julianramirezch.com"><img src="https://i.pinimg.com/originals/84/7c/08/847c083cc09040091439e3c05d1fedde.png" width="30px" alt="e-mail"></a> &nbsp; &nbsp;
+    <a href="mailto:julianramirezch1@gmail.com"><img src="https://i.pinimg.com/originals/84/7c/08/847c083cc09040091439e3c05d1fedde.png" width="30px" alt="e-mail"></a> &nbsp; &nbsp;
     <!-- github -->
     <a href="https://github.com/julianramirezch"><img src="https://icons-for-free.com/iconfiles/png/512/github+icon-1320168274457504277.png" width="30px" alt="Github"></a> &nbsp; &nbsp;
     <!-- linkedin -->
