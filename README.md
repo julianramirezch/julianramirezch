@@ -4,7 +4,7 @@
 </div>
 <div>
     <img src="https://github.com/julianramirezch/github-readme-stats">
-<div>
+</div>
 
 
 [![Julian github stats](https://github-readme-stats.vercel.app/api?username=julianramirezch&show_icons=true&theme=vision-friendly-dark)](https://github.com/julianramirezch/github-readme-stats)
