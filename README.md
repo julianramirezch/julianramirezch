@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Hey there, I'm Julian. I'm a software developer. Check out my work]
+[![Julian github stats](https://github-readme-stats.vercel.app/api?username=julianramirezch)](https://github.com/julianramirezch/github-readme-stats)
 
 <!--
 **julianramirezch/julianramirezch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
