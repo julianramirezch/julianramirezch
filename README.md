@@ -1,6 +1,6 @@
 ### Hi 👋
 <div align="left">
-    <img src ="https://github.com/julianramirezch/julianramirezch/raw/master/software_developer.gif">
+    <img src ="https://github.com/julianramirezch/julianramirezch/raw/master/software_developer.gif" width="450px" height="450px">
 </div>
     <div style="display: inline-block;">
         <img width="370" img align="right" alt="julianramirezch's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianramirezch&theme=radical&layout=compact&hide_border=true&count_private=true" class="responsive"/>
