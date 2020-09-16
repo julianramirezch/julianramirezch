@@ -6,12 +6,12 @@
     <img src="https://github.com/julianramirezch/github-readme-stats">
 <div>
 
-<div align="left">
-    [![Julian github stats](https://github-readme-stats.vercel.app/api?username=julianramirezch&show_icons=true&theme=vision-friendly-dark)](https://github.com/julianramirezch/github-readme-stats)
-</div>
-<div align="right">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianramirezch&layout=compact)](https://github.com/julianramirezch/github-readme-stats)
-</div>
+
+[![Julian github stats](https://github-readme-stats.vercel.app/api?username=julianramirezch&show_icons=true&theme=vision-friendly-dark)](https://github.com/julianramirezch/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianramirezch&layout=compact)](https://github.com/julianramirezch/github-readme-stats)
+
 <!--
 **julianramirezch/julianramirezch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
