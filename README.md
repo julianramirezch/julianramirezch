@@ -1,8 +1,11 @@
 ### Hi 👋
-<p align="center">
+<p align="left">
     <img src ="https://github.com/julianramirezch/julianramirezch/raw/master/software_developer.gif">
 </p>
-[![Julian github stats](https://github-readme-stats.vercel.app/api?username=julianramirezch&show_icons=true&theme=vision-friendly-dark)](https://github.com/julianramirezch/github-readme-stats)
+
+<p align="right">
+    <img src="https://github.com/julianramirezch/github-readme-stats">
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianramirezch&layout=compact)](https://github.com/julianramirezch/github-readme-stats)
 
