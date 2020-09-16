@@ -1,5 +1,5 @@
-### Hi there 👋
-[![Julian github stats](https://github-readme-stats.vercel.app/api?username=julianramirezch&show_icons=true&theme=radical)](https://github.com/julianramirezch/github-readme-stats)
+### Hi 👋
+[![Julian github stats](https://github-readme-stats.vercel.app/api?username=julianramirezch&show_icons=true&theme=vision-friendly-dark)](https://github.com/julianramirezch/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianramirezch&layout=compact)](https://github.com/julianramirezch/github-readme-stats)
 
