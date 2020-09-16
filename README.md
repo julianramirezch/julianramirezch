@@ -3,24 +3,17 @@
     <img src ="https://github.com/julianramirezch/julianramirezch/raw/master/software_developer.gif">
 </div>
 
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+    <div style="display: inline-block;">
+        <img width="450" height="224" img align="left" alt="julianramirezch's Github Stats" src="https://github-readme-stats.vercel.app/api?username=julianramirezch&theme=dark&show_icons=true" class="responsive" />
+    </div>
+    <br/>
+    <div style="display: inline-block;">
+        <img width="350" img align="center" alt="Fredhiis's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianramirezch&theme=radical&layout=compact&hide_border=true&count_private=true" class="responsive"/>
+    </div>
+</div>
+<br/>
 
-[![Julian github stats](https://github-readme-stats.vercel.app/api?username=julianramirezch&show_icons=true&theme=vision-friendly-dark)](https://github.com/julianramirezch/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianramirezch&layout=compact)](https://github.com/julianramirezch/github-readme-stats)
-
-<!-- Actual text -->
-
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/JulianR_30
-[2]: https://www.linkedin.com/in/julian-jose-ramirez-chacon/
 
 <!--
 **julianramirezch/julianramirezch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
