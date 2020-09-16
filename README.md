@@ -1,6 +1,6 @@
 ### Hi 👋
 <div align="left">
-    <img src ="https://github.com/julianramirezch/julianramirezch/raw/master/software_developer.gif">
+    <img src ="https://github.com/julianramirezch/julianramirezch/raw/master/software_developer.gif" width="400px" height="400px">
 </div>
 
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;" align="right>
