@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Hey there, I'm Julian. I'm a software developer. Check out my work](https://github.com/julianramirezch/julianramirezch/raw/master/bio.gif)
 
 <!--
 **julianramirezch/julianramirezch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
