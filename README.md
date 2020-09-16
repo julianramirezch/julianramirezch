@@ -1,11 +1,10 @@
 ### Hi 👋
-<p align="left">
+<div align="center">
     <img src ="https://github.com/julianramirezch/julianramirezch/raw/master/software_developer.gif">
-</p>
-
-<p align="right">
+</div>
+<div>
     <img src="https://github.com/julianramirezch/github-readme-stats">
-</p>
+<div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianramirezch&layout=compact)](https://github.com/julianramirezch/github-readme-stats)
 
