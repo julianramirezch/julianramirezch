@@ -9,7 +9,7 @@
     </div>
     <br/>
     <div style="display: inline-block;">
-        <img width="350" height="200" img align="center" alt="Fredhiis's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianramirezch&theme=radical&layout=compact&hide_border=true&count_private=true" class="responsive"/>
+        <img width="350" height="200" img align="center" alt="julianramirezch's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianramirezch&theme=radical&layout=compact&hide_border=true&count_private=true" class="responsive"/>
     </div>
 </div>
 <br/>
